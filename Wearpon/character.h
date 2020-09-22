@@ -4,6 +4,8 @@
 #include "wearponbehavior.h"
 #include "swordbehavior.h"
 #include "knifebehavior.h"
+#include "bowandarrowbehavior.h"
+#include "axebehavior.h"
 
 class Character
 {
